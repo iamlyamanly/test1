@@ -1,0 +1,30 @@
+.container{
+display:flex;
+justify-content: center;
+align-items: center;
+width:100%;
+flex-direction: column;
+}
+.giris input{
+    border: none;
+    outline: none;
+    background-color: blue;
+
+}
+.giris{
+    width:300px;
+    height:30px;
+    background-color:blue ;
+}
+.list{
+    margin-top: 40px;
+    width:300px;
+    background-color: blue;
+}
+.list1{
+    display: flex;
+
+}
+.line{
+    text-decoration: line-through;
+}
